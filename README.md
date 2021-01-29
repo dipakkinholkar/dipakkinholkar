@@ -29,9 +29,8 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 
 <h2> Find me around the web 🌎: </h2><br>
 
-- My Portfolio-<a href="https://tarunsinghofficial.media" target="_blank">@Website</a><br>
-- Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/tarunsingh24" target="_blank">@LinkedIn</a><br>
-- Follow me on Twitter-<a href="https://twitter.com/itsTarun24" target="_blank">@Twitter</a><br>
-- Check my Tech profile on HackerRank-<a href="https://www.hackerrank.com/taruncoder?hr_r=1" target="_blank">@HackerRank</a><br>
+- Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/dipak-kinholkar-352796204" target="_blank">@LinkedIn</a><br>
+- Follow me on Twitter-<a href="https://twitter.com/dipakkinholkar" target="_blank">@Twitter</a><br>
+- Check my Tech profile on HackerRank-<a href="https://www.hackerrank.com/dip_kadam?hr_r=1" target="_blank">@HackerRank</a><br>
 - Check out my Technical Articles on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/tarunsinghwap7/articles" target="_blank">@GeeksforGeeks</a><br>
 
