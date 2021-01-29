@@ -3,12 +3,10 @@
 I'm a Software Developer Enthusiast and an open source contributor. I'm currently a student at College Of Computer Science and Information Technology (COCSIT), Latur affiliated with SRTM University, Nanded, India, where I have been completed my Bachelor of Computer Science (B.Sc).Now I am pursuing Masters in Computer Science.
 
 <hr>
-
 <br>
 🎓 An Open-Source enthusiast<br>
 
-
-▪️ My skills include :<br>
+▪️ My Skills :<br>
 🔹️Programming Language: C, C++, JAVA <br>
 🔹️Problem Solving Skills: Data structure & Algorithms , OOPs<br>  
 🔹️Web Development: Html  , CSS  , Javascript<br>
@@ -17,6 +15,8 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 🔹️ Java Api : Collection , Regex , Lambok ,  
 🔹️Database : Oracle , MySql<br>
 🔹️Operating System: Windows , Linux <br>
+
+<hr>
 
 🌱 I’m currently learning more about <b>Full Developement Of Java</b>.<br>
 🤔 I’m looking for help with <b>Open Source Development</b>.<br>
