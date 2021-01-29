@@ -17,10 +17,9 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 🔹️Database : Oracle , Mysql<br>
 🔹️Operating System: Windows , Linux <br>
 
-🌱 I’m currently learning more about <b>Full Stack Development</b>.<br>
-👯 I’m looking to collaborate on <b>Youtube</b>.<br>
+🌱 I’m currently learning more about <b>Full Developement Of Java</b>.<br>
 🤔 I’m looking for help with <b>Open Source Development</b>.<br>
-💬 Ask me about <b>Web Development, SQL, Databases</b>. <br>
+💬 Ask me about <b>Server SQL, Databases</b>. <br>
 😄 Pronouns: He/His
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsinghofficial)](https://github.com/tarunsinghofficial/github-readme-stats)
@@ -32,5 +31,5 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 - Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/dipak-kinholkar-352796204" target="_blank">@LinkedIn</a><br>
 - Follow me on Twitter-<a href="https://twitter.com/dipakkinholkar" target="_blank">@Twitter</a><br>
 - Check my Tech profile on HackerRank-<a href="https://www.hackerrank.com/dip_kadam?hr_r=1" target="_blank">@HackerRank</a><br>
-- Check out my Technical Articles on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/tarunsinghwap7/articles" target="_blank">@GeeksforGeeks</a><br>
+- Check out my Technical Articles on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/dipakkinholkar/" target="_blank">@GeeksforGeeks</a><br>
 
