@@ -16,8 +16,11 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 🔹️ Java Api : Collection , Regex , Lambok ,  
 🔹️Database : Oracle , MySql<br>
 🔹️Operating System: Windows , Linux <br>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=dipkinholkar)](https://github.com/dipkinholkar/dipkinholkar/README.md)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/dipkinholkar/dipkinholkar/README.md)
 <hr>
 
 
