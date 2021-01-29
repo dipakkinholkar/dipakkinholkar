@@ -6,7 +6,7 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 <br>
 🎓 An Open-Source enthusiast<br>
 
- My skills include:<br>
+ ▪️My skills include:<br>
 🔹️Programming Language: C, C++, JAVA <br>
 🔹️Problem Solving Skills: Data structure & Algorithms , OOPs<br>  
 🔹️Web Development: Html  , CSS  , Javascript<br>
@@ -16,6 +16,9 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 🔹️Database : Oracle , MySql<br>
 🔹️Operating System: Windows , Linux <br>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsinghofficial)](https://github.com/tarunsinghofficial/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tarunsinghofficial)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 🌱 I’m currently learning more about <b>Full Developement Of Java</b>.<br>
