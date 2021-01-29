@@ -17,11 +17,7 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 🔹️Database : Oracle , MySql<br>
 🔹️Operating System: Windows , Linux <br>
 <br>
-
-[![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=dipkinholkar)](https://github.com/dipkinholkar/dipkinholkar/README.md)
-
-
-
+<hr>
 
 🌱 I’m currently learning more about <b>Full Developement Of Java</b>.<br>
 🤔 I’m looking for help with <b>Open Source Development</b>.<br>
@@ -29,6 +25,9 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 😄 Pronouns: He/His
 
 <hr>
+
+[![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=dipkinholkar)](https://github.com/dipkinholkar/dipkinholkar/README.md)
+
 
 <h2> Find me around the web 🌎: </h2><br>
 
