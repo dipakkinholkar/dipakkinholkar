@@ -6,7 +6,7 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 <br>
 🎓 An Open-Source enthusiast<br>
 
-▪️ My Skills :<br>
+▪️ My skills include:<br>
 🔹️Programming Language: C, C++, JAVA <br>
 🔹️Problem Solving Skills: Data structure & Algorithms , OOPs<br>  
 🔹️Web Development: Html  , CSS  , Javascript<br>
