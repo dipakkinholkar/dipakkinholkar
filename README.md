@@ -9,17 +9,17 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 
 ▪️ My skills include :<br>
 🔹️Programming Language: C, C++, JAVA <br>
-🔹️Problem Solving Skills: Datastructure & Algorithms , OOPs<br>  
-🔹️Web Development: Html 5 , CSS 3 , Javascript<br>
+🔹️Problem Solving Skills: Data structure & Algorithms , OOPs<br>  
+🔹️Web Development: Html  , CSS  , Javascript<br>
 🔹️ Java Technologies : JDBC 4.0 , Servlet , JSP <br>
 🔹️Framework & Tools : Spring , Maven , Log4J <br>
-🔹️ Java Api : Collection , Regex , Lambok , 
-🔹️Database : Oracle , Mysql<br>
+🔹️ Java Api : Collection , Regex , Lambok ,  
+🔹️Database : Oracle , MySql<br>
 🔹️Operating System: Windows , Linux <br>
 
 🌱 I’m currently learning more about <b>Full Developement Of Java</b>.<br>
 🤔 I’m looking for help with <b>Open Source Development</b>.<br>
-💬 Ask me about <b>Server SQL, Databases</b>. <br>
+💬 Ask me about <b>Server , SQL , Databases</b>. <br>
 😄 Pronouns: He/His
 
 
