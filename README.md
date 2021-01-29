@@ -18,10 +18,11 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 🔹️Operating System: Windows , Linux <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsinghofficial)](https://github.com/tarunsinghofficial/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tarunsinghofficial)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dipkinholkar)](https://github.com/dipkinholkar/dipkinholkar/README.md)
 
 <hr>
+
+
 
 🌱 I’m currently learning more about <b>Full Developement Of Java</b>.<br>
 🤔 I’m looking for help with <b>Open Source Development</b>.<br>
