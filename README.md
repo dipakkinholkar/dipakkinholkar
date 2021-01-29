@@ -22,7 +22,7 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 💬 Ask me about <b>Server SQL, Databases</b>. <br>
 😄 Pronouns: He/His
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsinghofficial)](https://github.com/tarunsinghofficial/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakkinholkar)](https://github.com/dipakkinholkar/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tarunsinghofficial)](https://github.com/anuraghazra/github-readme-stats)
 
 
