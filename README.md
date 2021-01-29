@@ -2,6 +2,7 @@
 
 I'm a Software Developer Enthusiast and an open source contributor. I'm currently a student at College Of Computer Science and Information Technology (COCSIT), Latur affiliated with SRTM University, Nanded, India, where I have been completed my Bachelor of Computer Science (B.Sc).Now I am pursuing Masters in Computer Science.
 
+<body bgcolor="pink"></body>
 
 <br>
 🎓 An Open-Source enthusiast<br>
