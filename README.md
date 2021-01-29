@@ -18,7 +18,7 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 🔹️Operating System: Windows , Linux <br>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dipkinholkar)](https://github.com/dipkinholkar/dipkinholkar/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipkinholkar)](https://github.com/dipkinholkar/dipkinholkar/README.md)
 
 <hr>
 
