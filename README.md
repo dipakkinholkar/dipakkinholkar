@@ -20,8 +20,6 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 
 [![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=dipkinholkar)](https://github.com/dipkinholkar/dipkinholkar/README.md)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/dipkinholkar/dipkinholkar/README.md)
-<hr>
 
 
 
