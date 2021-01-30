@@ -13,7 +13,7 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 🔹️Web Development: Html  , CSS  , Javascript<br>
 🔹️ Java Technologies : JDBC 4.0 , Servlet , JSP <br>
 🔹️Framework & Tools : Spring , Maven , Log4J <br>
-🔹️ Java Api : Collection , Regex , Lambok ,  
+🔹️ Java Api : Collection , Regex , Lambok ,  <br>
 🔹️Database : Oracle , MySql<br>
 🔹️Operating System: Windows , Linux <br>
 <br>
