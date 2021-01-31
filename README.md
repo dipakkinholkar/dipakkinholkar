@@ -1,6 +1,6 @@
 <h1>Hi, I'm Dipak Kinholkar! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
-I'm a Software Developer Enthusiast and an open source contributor. I'm currently a student at College Of Computer Science and Information Technology (COCSIT), Latur affiliated with SRTM University, Nanded, India, where I have been completed my Bachelor of Computer Science (B.Sc).Now I am pursuing Masters in Computer Science.
+I'm a Software Developer Enthusiast and an open source contributor. I'm currently a student at College Of Computer Science and Information Technology (COCSIT), Latur affiliated with SRTM University, Nanded, India, where I have been completed my Bachelor's of Computer Science (B.Sc).Now I am pursuing Master's in Computer Science.
 
 <hr>
 🎓 An Open-Source enthusiast<br>
