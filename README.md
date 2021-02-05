@@ -36,5 +36,4 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 - Follow me on Twitter-<a href="https://twitter.com/dipakkinholkar" target="_blank">@Twitter</a><br>
 - Check my Tech profile on HackerRank-<a href="https://www.hackerrank.com/dip_kadam?hr_r=1" target="_blank">@HackerRank</a><br>
 - Check out my Technical Articles on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/dipakkinholkar/" target="_blank">@GeeksforGeeks</a><br>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="dipakkinholkar"><a class="LI-simple-link" href='https://in.linkedin.com/in/dipakkinholkar?trk=profile-badge'>Dipak Kinholkar</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="dipakkinholkar"><a class="LI-simple-link" href='https://in.linkedin.com/in/dipakkinholkar?trk=profile-badge'>Dipak Kinholkar</a></div>
