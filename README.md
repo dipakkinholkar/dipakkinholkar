@@ -30,7 +30,7 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 [![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=dipkinholkar)](https://dipkinholkar.github.io/)
 
 
-<h2> Find me around the web 🌎: </h2><br>
+<h2>  Me around the web 🌎: </h2><br>
 
 - Sharing updates on Linkedin-<a href="https://www.linkedin.com/in/dipak-kinholkar-352796204" target="_blank">@LinkedIn</a><br>
 - Follow me on Twitter-<a href="https://twitter.com/dipakkinholkar" target="_blank">@Twitter</a><br>
