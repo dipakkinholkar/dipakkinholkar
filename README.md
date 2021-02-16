@@ -27,7 +27,6 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 
 <hr>
 
-[![Dipak's github stats](https://github-readme-stats.vercel.app/api?username=dipkinholkar)](https://dipkinholkar.github.io/)
 
 
 <h2>  Me around the web 🌎: </h2><br>
