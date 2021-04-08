@@ -26,7 +26,7 @@ I'm a Software Developer Enthusiast and an open source contributor. I'm currentl
 😄 Pronouns: He/His
 
 <hr>
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6785939750848135169" height="615" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 <h2>  Me around the web 🌎: </h2><br>
